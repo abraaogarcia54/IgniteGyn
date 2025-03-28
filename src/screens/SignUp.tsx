@@ -31,7 +31,7 @@ export function SignUp (){
 
                         <Heading color="$gray100">Crie sua conta</Heading>
 
-                        <Input placeholder="Nome" />
+                        <Input placeholder="Nome Tste" />
 
                         <Input placeholder="E-mail" keyboardType="email-address" autoCapitalize="none"/>
 
